@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQaABoAAAAAAAAAAAAAAPD/////AAAAAAAAAAAAAPCPiIiIiAAAAAAAAAAAAACPiIiIiIgAAAAAAAAAAADwj4iIiIiIAAAAAAAAAAAA8IiIiIiIiAAAAAAA////D/+IiP////8AAAAA/y8iIg+PiP8iIiIiAAAA8C8iIiLyiIgvIiIiIgAAAP8iIiIi8oj4LyIiIiIAAAAvIiIiIvKI/yIiIiIiAAAAL/IiIiLy/y8iIiIiIgAAAC8iIiIiIi8iIiIiIiIAAAAvIiIi8iIvIiIvIiIiAAAALyIiIvIiL/IiLy//IgAAAC8iIiLyIi8i////LyIAAAAvIiIiIiIvIv///y8iAAAA8CIiIiIiL/IiLy8vIgAAAPAiLyIiIi8iIi8i/yIAAAAALyIiIvL/LyIiIiIiAAAAAC8iIiLyiP///y8iIgAAAAAvIiIij4iIiIj4IiIAAAAA8CIiIv+IiIiIiP//AAAAAPD///8Aj4iIiIiIiAAAAAAA8AAAAPD/iIiIiIgAAAAAAAAAAAAAAP//////AAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "spoderman"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
